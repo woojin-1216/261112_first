@@ -85,3 +85,31 @@ graph LR;
 > 여러분들 스트레칭하세요  
 > \- 지나가던 프로그래밍 아저씨
 <!-- \ 이스케이프 문자 -->
+
+[연결하고 싶은 문자](https://naver.com)  
+`[연결하고 싶은 문자](https://naver.com)`
+
+![대체 텍스트]()
+
+![대체 텍스트](https://plus.unsplash.com/premium_photo-1793901825241-a5bfb9fc100a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
+```
+[![이미지](이미지링크)](접속링크)
+```
+[![이미지](https://images.unsplash.com/photo-1794135281323-83434c063f02?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)](https://naver.com)
+
+
+<center>가운데정렬</center>
+
+`|(수직 바, 파이프라인)`
+|제목1|
+|-----|
+|내용1|
+
+
+|제목1|제목2|제목3|
+|-----|-----|-----|
+|내용1|내용2|내용3|
+
+|:---| 왼쪽 정렬
+|---:| 오른쪽 정렬
+|:---:| 가운데 정렬
